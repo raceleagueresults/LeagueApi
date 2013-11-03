@@ -15,7 +15,7 @@ namespace DistributedServices.Api.Controllers
     public class ClientsController : ApiController
     {
         private readonly IClientRepository _repository;
-
+        // Test
         public ClientsController()
         {
             _repository = IoCFactory.Resolve<IClientRepository>();
