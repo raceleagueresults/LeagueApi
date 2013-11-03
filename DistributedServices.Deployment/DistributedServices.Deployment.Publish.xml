@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="S:\Dev\Published\Event" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="client.resortdataservices.com" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="resortdataservices event subdomain" publishMethod="FileSystem" replaceMatchingFiles="False" userName="reso4994" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQK7niuZbVUOEu05WBxYVqAAAAAACAAAAAAAQZgAAAAEAACAAAADtrB885xtEIlrkldI+qWxpq37zTktQdmwW1oiHfYbdBQAAAAAOgAAAAAIAACAAAACj9PXy7TSkryuJ2YAVWjIIId2unfKuPN2V0v2xXEyW1yAAAACilXKhyUWJ+LyTQbmP9S5VbEFSYsGJDVjD/1NyzvAOlUAAAACK4WN3+jrNmppsQFE5pTKTRte6Vu5QWmJVaBcbxdb7LB6yIcKe927gVUdn0BayrV8wLdKm6xn4uT07OK5l5MNv" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/10/2012 22:32:25" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="06/06/2012 23:48:39" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.dll" publishTime="06/07/2012 23:20:57" />
+    <file relUrl="bin/DistributedServices.MainModule.pdb" publishTime="07/03/2012 00:17:45" />
+    <file relUrl="bin/DistributedServices.Deployment.dll" publishTime="07/10/2012 22:33:54" />
+    <file relUrl="bin/Domain.MainModule.Entities.pdb" publishTime="07/03/2012 00:17:20" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.xml" publishTime="06/07/2012 23:20:57" />
+    <file relUrl="bin/Domain.Core.dll" publishTime="06/07/2012 00:24:10" />
+    <file relUrl="bin/Domain.MainModule.dll" publishTime="07/03/2012 00:17:23" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="06/06/2012 23:48:39" />
+    <file relUrl="bin/Domain.Core.pdb" publishTime="06/07/2012 00:24:10" />
+    <file relUrl="bin/Infrastructure.CrossCutting.IoC.dll" publishTime="07/03/2012 00:17:35" />
+    <file relUrl="bin/Infrastructure.Data.MainModule.dll" publishTime="07/03/2012 00:17:28" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="06/07/2012 23:20:57" />
+    <file relUrl="bin/Domain.MainModule.pdb" publishTime="07/03/2012 00:17:24" />
+    <file relUrl="bin/DistributedServices.MainModule.dll" publishTime="07/03/2012 00:17:43" />
+    <file relUrl="Global.asax" publishTime="06/06/2012 00:03:48" />
+    <file relUrl="bin/Domain.MainModule.Entities.dll" publishTime="07/03/2012 00:17:19" />
+    <file relUrl="bin/Infrastructure.Data.MainModule.pdb" publishTime="07/03/2012 00:17:30" />
+    <file relUrl="bin/Infrastructure.CrossCutting.IoC.pdb" publishTime="07/03/2012 00:17:37" />
+    <file relUrl="bin/Microsoft.Practices.Unity.xml" publishTime="06/07/2012 23:20:57" />
+    <file relUrl="bin/DistributedServices.Deployment.pdb" publishTime="07/10/2012 22:33:55" />
+    <file relUrl="Event.svc" publishTime="06/07/2012 23:53:03" />
+    <file relUrl="bin/Microsoft.Practices.ServiceLocation.pdb" publishTime="06/07/2012 23:20:57" />
+  </publishProfile>
+</publishData>

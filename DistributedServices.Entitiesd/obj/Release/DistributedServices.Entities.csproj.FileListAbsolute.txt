@@ -1,0 +1,5 @@
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Release\DistributedServices.Entities.dll
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Release\DistributedServices.Entities.pdb
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Release\DistributedServices.Entities.csprojResolveAssemblyReference.cache
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Release\DistributedServices.Entities.dll
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Release\DistributedServices.Entities.pdb

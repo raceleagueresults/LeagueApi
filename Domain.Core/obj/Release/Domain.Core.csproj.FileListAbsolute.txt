@@ -1,0 +1,10 @@
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\Domain.Core.dll.config
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\Domain.Core.dll
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\Domain.Core.pdb
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\EntityFramework.dll
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\EntityFramework.SqlServer.dll
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\EntityFramework.xml
+C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Release\EntityFramework.SqlServer.xml
+C:\Git\Shared\Client\ClientApi\Domain.Core\obj\Release\Domain.Core.csprojResolveAssemblyReference.cache
+C:\Git\Shared\Client\ClientApi\Domain.Core\obj\Release\Domain.Core.dll
+C:\Git\Shared\Client\ClientApi\Domain.Core\obj\Release\Domain.Core.pdb
