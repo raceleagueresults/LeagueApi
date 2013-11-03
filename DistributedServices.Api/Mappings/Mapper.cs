@@ -15,7 +15,7 @@ namespace DistributedServices.Api.Mappings
             var dto = new Entities.Dto.Client()
             {
                 Name = item.Name,
-                Description = item.Description,
+                Description = "TEST DESCRIPTION",
                 Token = item.Token,
                 Id = item.Id
             };
