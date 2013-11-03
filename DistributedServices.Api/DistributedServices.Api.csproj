@@ -240,6 +240,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\FileSystem.pubxml" />
+    <None Include="Properties\PublishProfiles\FtpGodaddy.pubxml" />
     <None Include="Properties\PublishProfiles\Godaddy.pubxml" />
     <None Include="Properties\PublishProfiles\Production.pubxml" />
   </ItemGroup>

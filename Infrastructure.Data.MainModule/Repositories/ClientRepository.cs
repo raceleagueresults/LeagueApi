@@ -58,7 +58,7 @@ namespace Infrastructure.Data.MainModule.Repositories
 
         public IEnumerable<Client> List()
         {
-            var items = _context.Clients;
+            var items = _context.Clients.Take(1);
 
             return items;
         }
