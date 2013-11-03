@@ -243,6 +243,7 @@
     <None Include="Properties\PublishProfiles\FtpGodaddy.pubxml" />
     <None Include="Properties\PublishProfiles\Godaddy.pubxml" />
     <None Include="Properties\PublishProfiles\Production.pubxml" />
+    <None Include="Properties\PublishProfiles\WinHostWebDeploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
