@@ -15,3 +15,8 @@ C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Debug\Distribut
 C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
 C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
 C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb
+C:\Git\RaceLeagueResults\LeagueApi\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.dll
+C:\Git\RaceLeagueResults\LeagueApi\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
+C:\Git\RaceLeagueResults\LeagueApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.csprojResolveAssemblyReference.cache
+C:\Git\RaceLeagueResults\LeagueApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
+C:\Git\RaceLeagueResults\LeagueApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb

@@ -142,3 +142,15 @@ C:\Git\Shared\Client\ClientApi\Infrastructure.Data.MainModule\bin\Debug\EntityFr
 C:\Git\Shared\Client\ClientApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.csprojResolveAssemblyReference.cache
 C:\Git\Shared\Client\ClientApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.dll
 C:\Git\Shared\Client\ClientApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.pdb
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\Infrastructure.Data.MainModule.dll.config
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\Infrastructure.Data.MainModule.dll
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\Infrastructure.Data.MainModule.pdb
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\Domain.Core.dll
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\EntityFramework.dll
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\Domain.Core.pdb
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\EntityFramework.xml
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.csprojResolveAssemblyReference.cache
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.dll
+C:\Git\RaceLeagueResults\LeagueApi\Infrastructure.Data.MainModule\obj\Debug\Infrastructure.Data.MainModule.pdb

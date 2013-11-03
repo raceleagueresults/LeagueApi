@@ -61,3 +61,13 @@ C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Debug\EntityFramework.xml
 C:\Git\Shared\Client\ClientApi\Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
 C:\Git\Shared\Client\ClientApi\Domain.Core\obj\Debug\Domain.Core.dll
 C:\Git\Shared\Client\ClientApi\Domain.Core\obj\Debug\Domain.Core.pdb
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\Domain.Core.dll.config
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\Domain.Core.dll
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\Domain.Core.pdb
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\EntityFramework.dll
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\EntityFramework.xml
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\obj\Debug\Domain.Core.csprojResolveAssemblyReference.cache
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\obj\Debug\Domain.Core.dll
+C:\Git\RaceLeagueResults\LeagueApi\Domain.Core\obj\Debug\Domain.Core.pdb
